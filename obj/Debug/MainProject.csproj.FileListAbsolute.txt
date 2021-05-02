@@ -1,0 +1,6 @@
+G:\University Study Materials\2nd term\Programming\Projects\Project\MainProject\bin\Debug\MainProject.exe
+G:\University Study Materials\2nd term\Programming\Projects\Project\MainProject\bin\Debug\MainProject.pdb
+G:\University Study Materials\2nd term\Programming\Projects\Project\MainProject\obj\Debug\MainProject.csprojAssemblyReference.cache
+G:\University Study Materials\2nd term\Programming\Projects\Project\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+G:\University Study Materials\2nd term\Programming\Projects\Project\MainProject\obj\Debug\MainProject.exe
+G:\University Study Materials\2nd term\Programming\Projects\Project\MainProject\obj\Debug\MainProject.pdb
